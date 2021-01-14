@@ -24,3 +24,10 @@ Hope You Will Like It and you can also use the code to make your own version.
 
 ---
 ## Demo
+<img src="dict.PNG">
+
+<div align="center">
+
+### Show some ❤️ by starring the repositories!
+
+</div>
