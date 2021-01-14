@@ -9,7 +9,7 @@ Hope You Will Like It and you can also use the code to make your own version.
 >### To Run, simply double click on the **dictionary_gui.exe**.
 ## Requirements
 1.  PyDictionary
-2.  English-to-Hindi
+2.  englisttohindi
 3.  tkinter
 
 ---
@@ -18,9 +18,9 @@ Hope You Will Like It and you can also use the code to make your own version.
 * For Linux: Open Terminal then type ```pip3 install PyDictionary```
 * For Windows: Open CMD, then type ```pip install PyDictionary```
 
-### Installing The English-to-Hindi Module:
-* For Linux: Open Terminal then type ```pip3 install English-to-Hindi```
-* For Windows: Open CMD, then type ```pip install English-to-Hindi```
+### Installing The englisttohindi Module:
+* For Linux: Open Terminal then type ```pip3 install englisttohindi```
+* For Windows: Open CMD, then type ```pip install englisttohindi```
 
 ---
 ## Demo
