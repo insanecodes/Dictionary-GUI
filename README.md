@@ -28,6 +28,6 @@ Hope You Will Like It and you can also use the code to make your own version.
 
 <div align="center">
 
-### Show some ❤️ by starring the repositories!
+### Show some ❤️ by starring the repository!
 
 </div>
